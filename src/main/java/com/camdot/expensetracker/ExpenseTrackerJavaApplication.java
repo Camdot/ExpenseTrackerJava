@@ -1,4 +1,4 @@
-package com.camdot.expensetrackerjava;
+package com.camdot.expensetracker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
